@@ -1,0 +1,81 @@
+body {
+	margin: 0px auto;
+	padding: 0px;
+}
+/*BodyContent*/
+.container {
+	background-color: #F4F4F4;
+	width: 100%;
+	font-family: arial;
+}
+
+.row label {
+	float: right;
+	padding: 15px;
+}
+
+.signIn form,.signOut form {
+	font-size: 16px;
+}
+
+.form-button {
+	width: 90%;
+	height: 50px;
+	font-weight: bold;
+}
+
+.text-box {
+	width: 80%;
+	height: 40px;
+	padding: 0 0 0 15px;
+}
+.text-box:focus{
+	border:1px solid #66BEE2 !important;
+	box-shadow: 0 0 8px #66BEE2;
+}
+
+h3 {
+	text-align: center;
+	font-weight: bold;
+}
+
+/*.signIn,.signUp {
+
+	padding: 50px;
+}*/
+
+.btn-lg {
+	width: 80%;
+}
+.img-heading{
+	text-align: center;
+	color: #00AACC;
+	font-family: Tahoma;
+	font-weight: bold;
+}
+.login-img{
+	width: 400px;
+	margin: 30px 0 0 3px;
+}
+.hotmail {
+	color: #2672ec;
+	font-family: Marvel;
+	font-weight: bold;
+	line-height: 42px;
+	text-align: center;
+	width: 104%;
+	padding: -5px;	
+}
+.box {
+	background: #fff none repeat scroll 0 0;
+	border: 15px solid #c0e0b7;
+	border-radius: 3px;
+	box-shadow: 1px 5px 5px 1px #ccc;
+	height: 350px;
+	margin: 32px -59px 20px;
+	width: 100%;
+}
+.footer{
+	text-align: center;
+}
+/*BodyContent*/
